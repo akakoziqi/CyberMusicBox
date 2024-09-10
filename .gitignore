@@ -1,0 +1,7 @@
+
+# hardware ignores
+
+*-backups/
+fp-info-cache
+production/
+*.lck
